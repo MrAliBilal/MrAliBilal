@@ -1,6 +1,9 @@
 ## Hi there 👋
 
 I’m Ali Bilal from Islamabad, Pakistan, specializing in Full Stack Web Development and Graphic Design. I have a strong passion for working with cutting-edge technologies and frameworks like React and Next.js. In addition to my web development skills, I excel in graphic design, including logo branding, UI/UX design, and print media.
+
+[![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrAliBilal)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **MrAliBilal/MrAliBilal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
