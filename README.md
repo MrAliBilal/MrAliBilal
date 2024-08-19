@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+I am Ali Bilal from Islamabad, Pakistan and I do Full Stack Webdevelopment and Graphic Designer. I really enjoy learning and working languages, framework and technology like React and Next js, I also enjoy Graphics designing Like Logo branding, Logo designing, UI/UX, Print Media.
 <!--
 **MrAliBilal/MrAliBilal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
