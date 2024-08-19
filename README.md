@@ -1,5 +1,6 @@
-### Hi there 👋, Ali Bilal
-#### Full Stack Web Development & Graphic Designer
+# Hi there 👋,I'm Ali Bilal
+**`Full Stack Web Development | Graphic Designer`**
+
 ![Full Stack Web Development & Graphic Designer](https://github.com/MrAliBilal/MrAliBilal/blob/main/AliBilal%20Cover%20Image.png)
 
 ### About Me
