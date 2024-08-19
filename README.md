@@ -1,14 +1,15 @@
-# Hi there 👋,I'm Ali Bilal
-**`Full Stack Web Development | Graphic Designer`**
+# 🌟 Ali Bilal
+**`Full Stack Web Developer | Graphic Designer`** <br>
+**`Islamabad, Pakistan`**
 
 ![Full Stack Web Development & Graphic Designer](https://github.com/MrAliBilal/MrAliBilal/blob/main/AliBilal%20Cover%20Image.png)
 
-### About Me
+## About Me
 I’m Ali Bilal from Islamabad, Pakistan, specializing in Full Stack Web Development and Graphic Design. I have a strong passion for working with cutting-edge technologies and frameworks like React and Next.js. In addition to my web development skills, I excel in graphic design, including logo branding, UI/UX design, and print media.
 
 ---
 
-### 🛠️ Tech Stack & Tools
+## 🛠️ Tech Stack & Tools
 
 - **💻 Frontend:** 
   - ⚛️ React
