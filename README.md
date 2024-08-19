@@ -2,9 +2,53 @@
 #### Full Stack Web Development & Graphic Designer
 ![Full Stack Web Development & Graphic Designer](https://github.com/MrAliBilal/MrAliBilal/blob/main/AliBilal%20Cover%20Image.png)
 
+### About Me
 I’m Ali Bilal from Islamabad, Pakistan, specializing in Full Stack Web Development and Graphic Design. I have a strong passion for working with cutting-edge technologies and frameworks like React and Next.js. In addition to my web development skills, I excel in graphic design, including logo branding, UI/UX design, and print media.
 
-Skills: REACT / NEXT.JS/ VITE.JS/ LARAVEL / BOOTSTRAP CSS / TAILWIND CSS / SQL / MYSQL / POSTGRESQL / Adobe Illustrator / Adobe Photoshop / Adobe After Effects / Canva / FigmaJAVASCRIPT / PHP/ HTML / CSS / 
+---
+
+### 🛠️ Tech Stack & Tools
+
+- **💻 Frontend:** 
+  - ⚛️ React
+  - 💨 Next.js
+  - 🛠️ Vite.js
+  - 🎨 Bootstrap CSS
+  - 🌈 Tailwind CSS
+  - 📝 HTML5
+  - 🎨 CSS3
+  - 📜 JavaScript
+
+- **🖥️ Backend:** 
+  - 🌐 Laravel
+  - 🛠️ Node.js
+  - ⚙️ Express
+  - 🔗 RESTful APIs
+  - 🐘 PHP
+
+- **💾 Databases:** 
+  - 🗄️ SQL
+  - 🐬 MySQL
+  - 🐘 PostgreSQL
+
+- **🎨 Design:**
+  - ✏️ Adobe Illustrator
+  - 🖌️ Adobe Photoshop
+  - 🎞️ Adobe After Effects
+  - 🎨 Canva
+  - 🖼️ Figma
+
+- **🔧 Version Control:** 
+  - 🧰 Git
+  - 🌐 GitHub
+
+- **⚙️ Other Tools:** 
+  - 💻 VS Code
+  - 🛠️ Webpack
+  - 📦 npm/yarn
+
+---
+
 
 
 
