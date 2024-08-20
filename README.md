@@ -23,17 +23,19 @@ I’m Ali Bilal from Islamabad, Pakistan, specializing in Full Stack Web Develop
 
 ## 🛠️ Tech Stack & Tools
 
-- **💻 Frontend:** 
-  - ⚛️ React
-  - 💨 Next.js
-  - 🛠️ Vite.js
-  - 🎨 Bootstrap CSS
-  - 🌈 Tailwind CSS
-  - 📝 HTML5
-  - 🎨 CSS3
-  - 📜 JavaScript
+### 💻 Frontend:
 
-- **🖥️ Backend:** 
+[<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />](https://react.dev/)
+[<img align="left" alt="Next.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" style="padding-right:10px;" />](https://nextjs.org/)
+[<img align="left" alt="Vite.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" style="padding-right:10px;" />](https://vitejs.dev/)
+[<img align="left" alt="Bootstrap CSS" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" style="padding-right:10px;" />](https://getbootstrap.com/)
+[<img align="left" alt="Tailwind CSS" width="26px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/tailwindcss/tailwindcss-original.svg" style="padding-right:10px;" />](https://tailwindcss.com/)
+[<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
+[<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />](https://developer.mozilla.org/en-US/docs/Web/JavaScript)<br>
+
+
+### 🖥️ Backend:
   - 🌐 Laravel
   - 🛠️ Node.js
   - ⚙️ Express
