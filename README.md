@@ -36,23 +36,23 @@ I’m Ali Bilal from Islamabad, Pakistan, specializing in Full Stack Web Develop
 
 
 ### 🖥️ Backend:
-  - 🌐 Laravel
-  - 🛠️ Node.js
-  - ⚙️ Express
-  - 🔗 RESTful APIs
-  - 🐘 PHP
+[<img align="left" alt="Laravel" width="26px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/laravel/laravel-original.svg" style="padding-right:10px;" />](https://laravel.com/)
+[<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />](https://nodejs.org/)
+[<img align="left" alt="Express" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" style="padding-right:10px;" />](https://expressjs.com/)
+[<img align="left" alt="PHP" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" style="padding-right:10px;" />](https://www.php.net/)<br>
 
-- **💾 Databases:** 
-  - 🗄️ SQL
-  - 🐬 MySQL
-  - 🐘 PostgreSQL
+### 💾 Databases:
+[<img align="left" alt="SQL" width="26px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/sqldeveloper/sqldeveloper-plain.svg" style="padding-right:10px;" />](https://en.wikipedia.org/wiki/SQL)
+[<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />](https://www.mysql.com/)
+[<img align="left" alt="PostgreSQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" style="padding-right:10px;" />](https://www.postgresql.org/)<br>
 
-- **🎨 Design:**
-  - ✏️ Adobe Illustrator
-  - 🖌️ Adobe Photoshop
-  - 🎞️ Adobe After Effects
-  - 🎨 Canva
-  - 🖼️ Figma
+### 🎨 Design:
+[<img align="left" alt="Adobe Illustrator" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-line.svg" style="padding-right:10px;" />](https://www.adobe.com/products/illustrator.html)
+[<img align="left" alt="Adobe Photoshop" width="26px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/photoshop/photoshop-original.svg" style="padding-right:10px;" />](https://www.adobe.com/products/photoshop.html)
+[<img align="left" alt="Adobe After Effects" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" style="padding-right:10px;" />](https://www.adobe.com/products/aftereffects.html)
+[<img align="left" alt="Canva" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/0/08/Canva_icon_2021.svg" style="padding-right:10px;" />](https://www.canva.com/)
+[<img align="left" alt="Figma" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" style="padding-right:10px;" />](https://www.figma.com/)<br>
+
 
 - **🔧 Version Control:** 
   - 🧰 Git
