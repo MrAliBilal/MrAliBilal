@@ -54,14 +54,15 @@ I’m Ali Bilal from Islamabad, Pakistan, specializing in Full Stack Web Develop
 [<img align="left" alt="Figma" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" style="padding-right:10px;" />](https://www.figma.com/)<br>
 
 
-- **🔧 Version Control:** 
-  - 🧰 Git
-  - 🌐 GitHub
+### 🔧 Version Control:
+[<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />](https://git-scm.com/)
+[<img align="left" alt="GitHub" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="padding-right:10px;" />](https://github.com/)<br>
 
-- **⚙️ Other Tools:** 
-  - 💻 VS Code
-  - 🛠️ Webpack
-  - 📦 npm/yarn
+### ⚙️ Other Tools:
+[<img align="left" alt="VS Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />](https://code.visualstudio.com/)
+[<img align="left" alt="Webpack" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" style="padding-right:10px;" />](https://webpack.js.org/)
+[<img align="left" alt="npm" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" style="padding-right:10px;" />](https://www.npmjs.com/)
+[<img align="left" alt="yarn" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" style="padding-right:10px;" />](https://yarnpkg.com/)<br>
 
 ---
 
