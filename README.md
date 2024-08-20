@@ -23,7 +23,7 @@ I’m Ali Bilal from Islamabad, Pakistan, specializing in Full Stack Web Develop
 
 ## 🛠️ Tech Stack & Tools
 
-### 💻 Frontend:
+### Frontend:
 
 [<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />](https://react.dev/)
 [<img align="left" alt="Next.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" style="padding-right:10px;" />](https://nextjs.org/)
@@ -35,18 +35,18 @@ I’m Ali Bilal from Islamabad, Pakistan, specializing in Full Stack Web Develop
 [<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />](https://developer.mozilla.org/en-US/docs/Web/JavaScript)<br>
 
 
-### 🖥️ Backend:
+### Backend:
 [<img align="left" alt="Laravel" width="26px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/laravel/laravel-original.svg" style="padding-right:10px;" />](https://laravel.com/)
 [<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />](https://nodejs.org/)
 [<img align="left" alt="Express" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" style="padding-right:10px;" />](https://expressjs.com/)
 [<img align="left" alt="PHP" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" style="padding-right:10px;" />](https://www.php.net/)<br>
 
-### 💾 Databases:
+### Databases:
 [<img align="left" alt="SQL" width="26px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/sqldeveloper/sqldeveloper-plain.svg" style="padding-right:10px;" />](https://en.wikipedia.org/wiki/SQL)
 [<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />](https://www.mysql.com/)
 [<img align="left" alt="PostgreSQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" style="padding-right:10px;" />](https://www.postgresql.org/)<br>
 
-### 🎨 Design:
+### Design:
 [<img align="left" alt="Adobe Illustrator" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-line.svg" style="padding-right:10px;" />](https://www.adobe.com/products/illustrator.html)
 [<img align="left" alt="Adobe Photoshop" width="26px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/photoshop/photoshop-original.svg" style="padding-right:10px;" />](https://www.adobe.com/products/photoshop.html)
 [<img align="left" alt="Adobe After Effects" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" style="padding-right:10px;" />](https://www.adobe.com/products/aftereffects.html)
@@ -54,11 +54,11 @@ I’m Ali Bilal from Islamabad, Pakistan, specializing in Full Stack Web Develop
 [<img align="left" alt="Figma" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" style="padding-right:10px;" />](https://www.figma.com/)<br>
 
 
-### 🔧 Version Control:
+### Version Control:
 [<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />](https://git-scm.com/)
 [<img align="left" alt="GitHub" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="padding-right:10px;" />](https://github.com/)<br>
 
-### ⚙️ Other Tools:
+### Other Tools:
 [<img align="left" alt="VS Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />](https://code.visualstudio.com/)
 [<img align="left" alt="Webpack" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" style="padding-right:10px;" />](https://webpack.js.org/)
 [<img align="left" alt="npm" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" style="padding-right:10px;" />](https://www.npmjs.com/)
