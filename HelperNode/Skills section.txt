@@ -1,0 +1,14 @@
+Languages
+C, C++, C#, Java, XML, Python, HTML, CSS, JavaScript, PHP, SQL
+Frameworks
+React, Next.JS, Vite.js, Laravel, Note.js, Express.js, Bootstrap, Tailwind
+Database
+MySQL, PostgreSQL 
+Tools
+Composer,Xampp,WebPack, npm , Yarn
+Integrated development environment
+VSCode, Vim, Visual Studio, Sublime Text, Note ++, IntelliJ IDEA, CodeLite, Dev-C++, Turbo c++, Window terminal , Git Bash
+Version Control
+Git, Github
+Graphics Designing Tool
+Adobe Illustrator, Photoshop, After Effects Canva and Figma
