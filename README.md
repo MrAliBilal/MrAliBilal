@@ -19,11 +19,10 @@ I’m Ali Bilal from Islamabad, Pakistan, specializing in Full Stack Web Develop
 &nbsp;&nbsp;
 [![website](./img/youtube-light.svg)](https://youtube.com/@AliBilal.1#gh-light-mode-only)
 [![website](./img/youtube-dark.svg)](https://youtube.com/@AliBilal.1#gh-dark-mode-only)
----
 
 ## 🛠️ Tech Stack & Tools
 
-### Frontend:
+### Framework:
 
 [<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />](https://react.dev/)
 [<img align="left" alt="Next.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" style="padding-right:10px;" />](https://nextjs.org/)
@@ -72,7 +71,6 @@ I’m Ali Bilal from Islamabad, Pakistan, specializing in Full Stack Web Develop
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=MrAliBilal&theme=dark)  
 
----
 
 
 
