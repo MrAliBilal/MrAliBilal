@@ -11,7 +11,7 @@ I’m Ali Bilal from Islamabad, Pakistan, specializing in Full Stack Web Develop
 
 ### Connect with me:
 
-[![Email: MrAliBilal@outlook.com](./img/connect-with-me-section/email-light.svg#gh-light-mode-only "MrAliBilal@outlook.com")](https://www.google.com "Google's Homepage")
+[![Email: MrAliBilal@outlook.com](./img/connect-with-me-section/email-light.svg "MrAliBilal@outlook.com")](https://www.google.com #gh-light-mode-only)
 
 [![website](./img/linkedin-light.svg)](https://linkedin.com/in/MrAliBilal#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://linkedin.com/in/MrAliBilal#gh-dark-mode-only)
