@@ -20,6 +20,8 @@ I’m Ali Bilal from Islamabad, Pakistan, specializing in Full Stack Web Develop
   </picture>
 </a>
 
+&nbsp;&nbsp;
+
 <a href="mailto:MrAliBilal@Outlook.com" title="MrAliBilal@Outlook.com">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="/img/connect-with-me-section/email-dark.svg">
