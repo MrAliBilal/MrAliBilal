@@ -12,25 +12,56 @@ I’m Ali Bilal from Islamabad, Pakistan, specializing in Full Stack Web Develop
 
 ### Connect with me:
 
-<a href="mailto:MrAliBilal@Outlook.com" title="MrAliBilal@Outlook.com">
+<a href="http://www.AliBilal.com/" title="AliBilal.com/">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="/img/connect-with-me-section/globe-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="/img/connect-with-me-section/globe-light.svg">
+    <img alt="Website:AliBilal.com" src="/img/connect-with-me-section/globe-default.svg">
+  </picture>
+</a>&nbsp;&nbsp;
+<a href="mailto:MrAliBilal@Outlook.com" title="Email: MrAliBilal@Outlook.com">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="/img/connect-with-me-section/email-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="/img/connect-with-me-section/email-light.svg">
     <img alt="Email:MrAliBilal@Outlook.com" src="/img/connect-with-me-section/email-default.svg">
   </picture>
-</a>
-
-&nbsp;&nbsp;
-
-<a href="mailto:MrAliBilal@Outlook.com" title="MrAliBilal@Outlook.com">
+</a>&nbsp;&nbsp;
+<a href="https://linkedin.com/in/MrAliBilal" title="LinkedIn: MrAliBilal">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="/img/connect-with-me-section/email-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="/img/connect-with-me-section/email-light.svg">
-    <img alt="Email:MrAliBilal@Outlook.com" src="/img/connect-with-me-section/email-default.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="/img/connect-with-me-section/linkedin-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="/img/connect-with-me-section/linkedin-light.svg">
+    <img alt="" src="/img/connect-with-me-section/linkedin-default.svg">
   </picture>
-</a>
+</a>&nbsp;&nbsp;
+<a href="" title="">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="/img/connect-with-me-section/.svg">
+    <source media="(prefers-color-scheme: light)" srcset="/img/connect-with-me-section/.svg">
+    <img alt="" src="/img/connect-with-me-section/.svg">
+  </picture>
+</a>&nbsp;&nbsp;
+<a href="" title="">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="/img/connect-with-me-section/.svg">
+    <source media="(prefers-color-scheme: light)" srcset="/img/connect-with-me-section/.svg">
+    <img alt="" src="/img/connect-with-me-section/.svg">
+  </picture>
+</a>&nbsp;&nbsp;
+<a href="" title="">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="/img/connect-with-me-section/.svg">
+    <source media="(prefers-color-scheme: light)" srcset="/img/connect-with-me-section/.svg">
+    <img alt="" src="/img/connect-with-me-section/.svg">
+  </picture>
+</a>&nbsp;&nbsp;
+<a href="" title="">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="/img/connect-with-me-section/.svg">
+    <source media="(prefers-color-scheme: light)" srcset="/img/connect-with-me-section/.svg">
+    <img alt="" src="/img/connect-with-me-section/.svg">
+  </picture>
+</a>&nbsp;&nbsp;
 
-&nbsp;&nbsp;
 
 [![website](./img/connect-with-me-section/linkedin-light.svg)](https://linkedin.com/in/MrAliBilal#gh-light-mode-only)
 [![website](./img/connect-with-me-section/linkedin-dark.svg)](https://linkedin.com/in/MrAliBilal#gh-dark-mode-only)
