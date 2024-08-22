@@ -12,7 +12,7 @@ I’m Ali Bilal from Islamabad, Pakistan, specializing in Full Stack Web Develop
 
 ### Connect with me:
 
-<a href="http://www.AliBilal.com/" title="AliBilal.com/">
+<a href="http://www.AliBilal.com/" title="AliBilal.com">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="/img/connect-with-me-section/globe-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="/img/connect-with-me-section/globe-light.svg">
@@ -33,32 +33,32 @@ I’m Ali Bilal from Islamabad, Pakistan, specializing in Full Stack Web Develop
     <img alt="" src="/img/connect-with-me-section/linkedin-default.svg">
   </picture>
 </a>&nbsp;&nbsp;
-<a href="" title="">
+<a href="http://discordapp.com/users/MrAliBilal" title="Discord: MrAliBilal">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="/img/connect-with-me-section/.svg">
-    <source media="(prefers-color-scheme: light)" srcset="/img/connect-with-me-section/.svg">
-    <img alt="" src="/img/connect-with-me-section/.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="/img/connect-with-me-section/discord-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="/img/connect-with-me-section/discord-light.svg">
+    <img alt="Discord: MrAliBilal" src="/img/connect-with-me-section/discord-default.svg">
   </picture>
 </a>&nbsp;&nbsp;
-<a href="" title="">
+<a href="https://t.me/MrAlibilal" title="Telegram: MrAliBilal">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="/img/connect-with-me-section/.svg">
-    <source media="(prefers-color-scheme: light)" srcset="/img/connect-with-me-section/.svg">
-    <img alt="" src="/img/connect-with-me-section/.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="/img/connect-with-me-section/telegram-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="/img/connect-with-me-section/telegram-light.svg">
+    <img alt="Telegram: MrAliBilal" src="/img/connect-with-me-section/telegram-default.svg">
   </picture>
 </a>&nbsp;&nbsp;
-<a href="" title="">
+<a href="https://www.instagram.com/Mr.AliBilal" title="">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="/img/connect-with-me-section/.svg">
-    <source media="(prefers-color-scheme: light)" srcset="/img/connect-with-me-section/.svg">
-    <img alt="" src="/img/connect-with-me-section/.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="/img/connect-with-me-section/instagram-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="/img/connect-with-me-section/instagram-light.svg">
+    <img alt="" src="/img/connect-with-me-section/instagram-default.svg">
   </picture>
 </a>&nbsp;&nbsp;
-<a href="" title="">
+<a href="https://www.youtube.com/@MrAliBilal" title="">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="/img/connect-with-me-section/.svg">
-    <source media="(prefers-color-scheme: light)" srcset="/img/connect-with-me-section/.svg">
-    <img alt="" src="/img/connect-with-me-section/.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="/img/connect-with-me-section/youtube-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="/img/connect-with-me-section/youtube-light.svg">
+    <img alt="" src="/img/connect-with-me-section/youtube-default.svg">
   </picture>
 </a>&nbsp;&nbsp;
 
