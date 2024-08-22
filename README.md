@@ -20,6 +20,7 @@ I’m Ali Bilal from Islamabad, Pakistan, specializing in Full Stack Web Develop
   </picture>
 </a>
 &nbsp;&nbsp;
+
 [![website](./img/connect-with-me-section/linkedin-light.svg)](https://linkedin.com/in/MrAliBilal#gh-light-mode-only)
 [![website](./img/connect-with-me-section/linkedin-dark.svg)](https://linkedin.com/in/MrAliBilal#gh-dark-mode-only)
 &nbsp;&nbsp;
