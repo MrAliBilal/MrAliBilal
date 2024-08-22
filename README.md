@@ -47,18 +47,18 @@ I’m Ali Bilal from Islamabad, Pakistan, specializing in Full Stack Web Develop
     <img alt="Telegram: MrAliBilal" src="/img/connect-with-me-section/telegram-default.svg">
   </picture>
 </a>&nbsp;&nbsp;
-<a href="https://www.instagram.com/Mr.AliBilal" title="">
+<a href="https://www.instagram.com/Mr.AliBilal" title="Instagram: Mr.AliBilal">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="/img/connect-with-me-section/instagram-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="/img/connect-with-me-section/instagram-light.svg">
-    <img alt="" src="/img/connect-with-me-section/instagram-default.svg">
+    <img alt="Instagram: Mr.AliBilal" src="/img/connect-with-me-section/instagram-default.svg">
   </picture>
 </a>&nbsp;&nbsp;
-<a href="https://www.youtube.com/@MrAliBilal" title="">
+<a href="https://www.youtube.com/@MrAliBilal" title="Youtube: @MrAliBilal">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="/img/connect-with-me-section/youtube-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="/img/connect-with-me-section/youtube-light.svg">
-    <img alt="" src="/img/connect-with-me-section/youtube-default.svg">
+    <img alt="Youtube: @MrAliBilal" src="/img/connect-with-me-section/youtube-default.svg">
   </picture>
 </a>
 
