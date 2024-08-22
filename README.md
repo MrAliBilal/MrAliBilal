@@ -60,17 +60,7 @@ I’m Ali Bilal from Islamabad, Pakistan, specializing in Full Stack Web Develop
     <source media="(prefers-color-scheme: light)" srcset="/img/connect-with-me-section/youtube-light.svg">
     <img alt="" src="/img/connect-with-me-section/youtube-default.svg">
   </picture>
-</a>&nbsp;&nbsp;
-
-
-[![website](./img/connect-with-me-section/linkedin-light.svg)](https://linkedin.com/in/MrAliBilal#gh-light-mode-only)
-[![website](./img/connect-with-me-section/linkedin-dark.svg)](https://linkedin.com/in/MrAliBilal#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/connect-with-me-section/instagram-light.svg)](https://instagram.com/Mr.AliBilal#gh-light-mode-only)
-[![website](./img/connect-with-me-section/instagram-dark.svg)](https://instagram.com/Mr.AliBilalr#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/connect-with-me-section/youtube-light.svg)](https://youtube.com/@AliBilal.1#gh-light-mode-only)
-[![website](./img/connect-with-me-section/youtube-dark.svg)](https://youtube.com/@AliBilal.1#gh-dark-mode-only)
+</a>
 
 ## 🛠️ Tech Stack & Tools
 
