@@ -1,5 +1,6 @@
 # 🌟 Ali Bilal
 **`Full Stack Web Developer | Graphic Designer`** <br>
+**`Bachelor of Science in Computer Science (BSCS)`** <br>
 **`Islamabad, Pakistan`**
 
 ![Full Stack Web Development & Graphic Designer](./img/cover-img.png)
