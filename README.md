@@ -8,65 +8,120 @@
 ## About Me
 I’m Ali Bilal from Islamabad, Pakistan, specializing in Full Stack Web Development and Graphic Design. I have a strong passion for working with cutting-edge technologies and frameworks like React and Next.js. In addition to my web development skills, I excel in graphic design, including logo branding, UI/UX design, and print media.
 
----
-
-### Connect with me:
+## Connect with me:
 
 <a href="http://www.AliBilal.com/" title="AliBilal.com">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="/img/connect-with-me-section/globe-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="/img/connect-with-me-section/globe-light.svg">
-    <img alt="Website:AliBilal.com" src="/img/connect-with-me-section/globe-default.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="./img/connect-with-me-section/globe-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./img/connect-with-me-section/globe-light.svg">
+    <img alt="Website:AliBilal.com" src="./img/connect-with-me-section/globe-default.svg">
   </picture>
 </a>&nbsp;&nbsp;
 <a href="mailto:MrAliBilal@Outlook.com" title="Email: MrAliBilal@Outlook.com">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="/img/connect-with-me-section/email-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="/img/connect-with-me-section/email-light.svg">
-    <img alt="Email:MrAliBilal@Outlook.com" src="/img/connect-with-me-section/email-default.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="./img/connect-with-me-section/email-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./img/connect-with-me-section/email-light.svg">
+    <img alt="Email:MrAliBilal@Outlook.com" src="./img/connect-with-me-section/email-default.svg">
   </picture>
 </a>&nbsp;&nbsp;
 <a href="https://linkedin.com/in/MrAliBilal" title="LinkedIn: MrAliBilal">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="/img/connect-with-me-section/linkedin-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="/img/connect-with-me-section/linkedin-light.svg">
-    <img alt="" src="/img/connect-with-me-section/linkedin-default.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="./img/connect-with-me-section/linkedin-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./img/connect-with-me-section/linkedin-light.svg">
+    <img alt="" src="./img/connect-with-me-section/linkedin-default.svg">
   </picture>
 </a>&nbsp;&nbsp;
 <a href="http://discordapp.com/users/MrAliBilal" title="Discord: MrAliBilal">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="/img/connect-with-me-section/discord-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="/img/connect-with-me-section/discord-light.svg">
-    <img alt="Discord: MrAliBilal" src="/img/connect-with-me-section/discord-default.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="./img/connect-with-me-section/discord-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./img/connect-with-me-section/discord-light.svg">
+    <img alt="Discord: MrAliBilal" src="./img/connect-with-me-section/discord-default.svg">
   </picture>
 </a>&nbsp;&nbsp;
 <a href="https://t.me/MrAlibilal" title="Telegram: MrAliBilal">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="/img/connect-with-me-section/telegram-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="/img/connect-with-me-section/telegram-light.svg">
-    <img alt="Telegram: MrAliBilal" src="/img/connect-with-me-section/telegram-default.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="./img/connect-with-me-section/telegram-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./img/connect-with-me-section/telegram-light.svg">
+    <img alt="Telegram: MrAliBilal" src="./img/connect-with-me-section/telegram-default.svg">
   </picture>
 </a>&nbsp;&nbsp;
 <a href="https://www.instagram.com/Mr.AliBilal" title="Instagram: Mr.AliBilal">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="/img/connect-with-me-section/instagram-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="/img/connect-with-me-section/instagram-light.svg">
-    <img alt="Instagram: Mr.AliBilal" src="/img/connect-with-me-section/instagram-default.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="./img/connect-with-me-section/instagram-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./img/connect-with-me-section/instagram-light.svg">
+    <img alt="Instagram: Mr.AliBilal" src="./img/connect-with-me-section/instagram-default.svg">
   </picture>
 </a>&nbsp;&nbsp;
 <a href="https://www.youtube.com/@MrAliBilal" title="Youtube: @MrAliBilal">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="/img/connect-with-me-section/youtube-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="/img/connect-with-me-section/youtube-light.svg">
-    <img alt="Youtube: @MrAliBilal" src="/img/connect-with-me-section/youtube-default.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="./img/connect-with-me-section/youtube-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./img/connect-with-me-section/youtube-light.svg">
+    <img alt="Youtube: @MrAliBilal" src="./img/connect-with-me-section/youtube-default.svg">
   </picture>
 </a>
 
-## 🛠️ Tech Stack & Tools
+## Tech Stack & Tools
+
+### Languages:
+![Language: C](./img/tools/c-original.svg "Language: C")
+&nbsp;&nbsp;
+![Language: C++](./img/tools/cplusplus-original.svg "Language: C++")
+&nbsp;&nbsp;
+![Language: C#](./img/tools/csharp-original.svg "Language: C#")
+&nbsp;&nbsp;
+![Language: Java](./img/tools/java-original.svg "Language: Java")
+&nbsp;&nbsp;
+![Language:Python ](./img/tools/python-original.svg "Language: Python")
+&nbsp;&nbsp;
+![Language: XML](./img/tools/xml-original.svg "Language: XML")
+&nbsp;&nbsp;
+![Language: HTML](./img/tools/html5-original.svg "Language: HTML")
+&nbsp;&nbsp;
+![Language: CSS](./img/tools/css3-original.svg "Language: CSS")
+&nbsp;&nbsp;
+![Language: JavaScript](./img/tools/javascript-original.svg "Language: JavaScript")
+&nbsp;&nbsp;
+![Language: PHP](./img/tools/php-original.svg "Language: PHP")
+&nbsp;&nbsp;
+![Language: SQL](./img/tools/sql-original.svg "Language: SQL")
 
 ### Framework:
 
-[<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />](https://react.dev/)
+### Database:
+
+### Tools:
+
+### Integrated development environment IDE:
+
+### Version Control:
+
+### Graphics Designing Tool:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- [<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />](https://react.dev/)
 [<img align="left" alt="Next.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" style="padding-right:10px;" />](https://nextjs.org/)
 [<img align="left" alt="Vite.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" style="padding-right:10px;" />](https://vitejs.dev/)
 [<img align="left" alt="Bootstrap CSS" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" style="padding-right:10px;" />](https://getbootstrap.com/)
@@ -111,7 +166,7 @@ I’m Ali Bilal from Islamabad, Pakistan, specializing in Full Stack Web Develop
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MrAliBilal&show_icons=true&count_private=true&theme=dark)  
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=MrAliBilal&theme=dark)  
+![GitHub streak stats](https://streak-stats.demolab.com/?user=MrAliBilal&theme=dark)   -->
 
 
 
