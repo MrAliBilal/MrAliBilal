@@ -150,7 +150,7 @@ I’m Ali Bilal from Islamabad, Pakistan, specializing in Full Stack Web Develop
 ![Web-Based Hosting Service: GitHub](./img/tools/github-original.svg "Web-Based Hosting Service: GitHub")
 
 ### Graphics Designing Tool:
-![Vector Graphics Editor: Adobe Illustrator](./img/tools/intellij-original.svg "Vector Graphics Editor: Adobe Illustrator")
+![Vector Graphics Editor: Adobe Illustrator](./img/tools/Adobe_Illustrator_CC_icon.svg "Vector Graphics Editor: Adobe Illustrator")
 &nbsp;&nbsp;
 ![Raster Graphics Editor: Adobe Photoshop](./img/tools/photoshop-original.svg "Raster Graphics Editor: Adobe Photoshop")
 &nbsp;&nbsp;
