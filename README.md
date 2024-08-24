@@ -73,11 +73,11 @@ I’m Ali Bilal from Islamabad, Pakistan, specializing in Full Stack Web Develop
 &nbsp;&nbsp;
 ![Language:Python ](./img/tools/python-original.svg "Language: Python")
 &nbsp;&nbsp;
-![Language: XML](./img/tools/xml-original.svg "Language: XML")
+![Markup Language: XML](./img/tools/xml-original.svg "Markup Language: XML")
 &nbsp;&nbsp;
-![Language: HTML](./img/tools/html5-original.svg "Language: HTML")
+![Markup Language: HTML](./img/tools/html5-original.svg "Markup Language: HTML")
 &nbsp;&nbsp;
-![Language: CSS](./img/tools/css3-original.svg "Language: CSS")
+![Markup Language: CSS](./img/tools/css3-original.svg "Markup Language: CSS")
 &nbsp;&nbsp;
 ![Language: JavaScript](./img/tools/javascript-original.svg "Language: JavaScript")
 &nbsp;&nbsp;
@@ -86,23 +86,83 @@ I’m Ali Bilal from Islamabad, Pakistan, specializing in Full Stack Web Develop
 ![Language: SQL](./img/tools/sql-original.svg "Language: SQL")
 
 ### Framework:
+![JavaScript library: React](./img/tools/react-original.svg "JavaScript library: React")
+&nbsp;&nbsp;
+![JavaScript Framework: Next](./img/tools/nextjs-original.svg "JavaScript Framework: Next")
+&nbsp;&nbsp;
+![JavaScript Framework: Vite](./img/tools/vitejs-original.svg "JavaScript Framework: Vite")
+&nbsp;&nbsp;
+![PHP Framework: Laravel](./img/tools/laravel-original.svg "PHP Framework: Laravel")
+&nbsp;&nbsp;
+![JavaScript Framework: Node](./img/tools/nodejs-original.svg "JavaScript Framework: Node")
+&nbsp;&nbsp;
+![JavaScript Framework: Express](./img/tools/express-original.svg#gh-light-mode-only "JavaScript Framework: Express")
+![JavaScript Framework: Express](./img/tools/express-dark.svg#gh-dark-mode-only "JavaScript Framework: Express")
+&nbsp;&nbsp;
+![CSS Framework: Bootstrap](./img/tools/bootstrap-original.svg "CSS Framework: Bootstrap")
+&nbsp;&nbsp;
+![CSS Framework: TailWind](./img/tools/tailwindcss-original.svg "CSS Framework: TailWind")
 
 ### Database:
+![DataBase: MySQL](./img/tools/mysql-original.svg "DataBase: MySQL")
+&nbsp;&nbsp;
+![DataBase: PostgreSQL](./img/tools/postgresql-original.svg "DataBase: PostgreSQL")
 
 ### Tools:
+![Content Management System CMS: Strapi](./img/tools/strapi.svg "Content Management System CMS: Strapi")
+&nbsp;&nbsp;
+![Dependency Management Tool: Composer](./img/tools/composer-original.svg "Dependency Management Tool: Composer")
+&nbsp;&nbsp;
+![Cross-Platform Web Server Solution Stack: XAMPP](./img/tools/xampp.svg "Cross-Platform Web Server Solution Stack: XAMPP")
+&nbsp;&nbsp;
+![Module Bundler: Webpack](./img/tools/webpack-original.svg "Module Bundler: Webpack")
+&nbsp;&nbsp;
+![Package Manager: NPM](./img/tools/npm-original-wordmark.svg "Package Manager: NPM")
+&nbsp;&nbsp;
+![Package Manager: Yarn](./img/tools/yarn-original.svg "Package Manager: Yarn")
 
 ### Integrated development environment IDE:
+![Source Code Editor: VS Code](./img/tools/vscode-original.svg "Source Code Editor: VS Code")
+&nbsp;&nbsp;
+![Screen-Based Text Editor: Vim](./img/tools/vim-original.svg "Screen-Based Text Editor: Vim")
+&nbsp;&nbsp;
+![IDE (C#, C++): Visual Studio](./img/tools/visualstudio-original.svg "IDE (C#, C++): Visual Studio")
+&nbsp;&nbsp;
+![Source Code Editor: Sublime Text](./img/tools/sublimetext-icon-svgrepo-com.svg "Source Code Editor: Sublime Text")
+&nbsp;&nbsp;
+![IDE (Java): IntelliJ](./img/tools/intellij-original.svg "IDE ( Java): IntelliJ")
+&nbsp;&nbsp;
+![IDE (C, C++): CodeLite ](./img/tools/codelite-logo.svg "IDE (C, C++): CodeLite ")
+&nbsp;&nbsp;
+![Text Editor: NotePad ++](./img/tools/Notepad++_Logo.svg "Text Editor: NotePad ++")
+&nbsp;&nbsp;
+<!-- ![IDE (C, C++): Dev-C++](./img/tools "IDE (C, C++): Dev-C++")
+&nbsp;&nbsp;
+![IDE (C, C++): Turbo c++](./img/tools "IDE (C, C++): Turbo c++")
+&nbsp;&nbsp;
+![Command-Line Interface for Git: Git Bash](./img/tools "Command-Line Interface for Git: Git Bash")
+&nbsp;&nbsp;
+![Command-Line Tools: Windows Terminal](./img/tools "Command-Line Tools: Windows Terminal") -->
 
 ### Version Control:
+![Version Control System VCS: Git](./img/tools/git-original.svg "Version Control System VCS: Git")
+&nbsp;&nbsp;
+![Web-Based Hosting Service: GitHub](./img/tools/github-original.svg "Web-Based Hosting Service: GitHub")
 
 ### Graphics Designing Tool:
-
-
-
-
-
-
-
+![Vector Graphics Editor: Adobe Illustrator](./img/tools/intellij-original.svg "Vector Graphics Editor: Adobe Illustrator")
+&nbsp;&nbsp;
+![Raster Graphics Editor: Adobe Photoshop](./img/tools/photoshop-original.svg "Raster Graphics Editor: Adobe Photoshop")
+&nbsp;&nbsp;
+![Motion Graphics and Visual Effects Software: Adobe After Effects](./img/tools/aftereffects-original.svg "Motion Graphics and Visual Effects Software: Adobe After Effects")
+&nbsp;&nbsp;
+![Design and Prototyping Tool: Adobe XD](./img/tools/xd-original.svg "Design and Prototyping Tool: Adobe XD")
+&nbsp;&nbsp;
+![Graphic Design Tool: Canva](./img/tools/canva-original.svg "Graphic Design Tool: Canva")
+&nbsp;&nbsp;
+![Design and Prototyping Tool: Figma](./img/tools/figma-original.svg "Framework: ")
+&nbsp;&nbsp;
+<!-- ![Low-Fidelity UI wireframing tool: Balsamiq](./img/tools "Low-Fidelity UI wireframing tool: Balsamiq") -->
 
 
 
