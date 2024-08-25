@@ -168,10 +168,10 @@ I’m Ali Bilal from Islamabad, Pakistan, specializing in Full Stack Web Develop
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=MrAliBilal&show_icons=true&count_private=true&theme=github_dark&rank_icon=github&bg_color=24292F&border_color=373E47" />
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=MrAliBilal&show_icons=true&count_private=true&theme=github_dark&card_width=400&rank_icon=github&bg_color=24292F&border_color=373E47" />
   </a>
   <a href="https://github.com/anuraghazra/convoychat">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MrAliBilal&layout=compact&theme=github_dark&langs_count=8&card_width=320&bg_color=24292F&border_color=373E47" />
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MrAliBilal&layout=compact&theme=github_dark&langs_count=8&card_width=300&bg_color=24292F&border_color=373E47" />
   </a>
   <br><br>
   <a href="https://git.io/streak-stats">
