@@ -167,72 +167,22 @@ I’m Ali Bilal from Islamabad, Pakistan, specializing in Full Stack Web Develop
 ## My Stats:
 
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=MrAliBilal&show_icons=true&count_private=true&theme=github_dark&card_width=400&rank_icon=github&bg_color=24292F&border_color=373E47" />
+  <a href="https://github.com/MrAliBilal?tab=repositories" title="GitHub: Stats">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" height=200 srcset="https://github-readme-stats.vercel.app/api?username=MrAliBilal&show_icons=true&count_private=true&theme=github_dark&card_width=400&rank_icon=github&bg_color=24292F&border_color=373E47">
+      <img alt="GitHub: Stats" height=200 src="https://github-readme-stats.vercel.app/api?username=MrAliBilal&show_icons=true&count_private=true&theme=catppuccin_latte&card_width=400&rank_icon=github">
+    </picture>
   </a>
-  <a href="https://github.com/anuraghazra/convoychat">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MrAliBilal&layout=compact&theme=github_dark&langs_count=8&card_width=300&bg_color=24292F&border_color=373E47" />
+  <a href="https://github.com/MrAliBilal?tab=repositories" title="GitHub: Most Used Programing Language">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" height=200 srcset="https://github-readme-stats.vercel.app/api/top-langs?username=MrAliBilal&layout=compact&theme=github_dark&langs_count=8&card_width=300&bg_color=24292F&border_color=373E47">
+      <img alt="GitHub: Most Used Programing Language" height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=MrAliBilal&layout=compact&theme=catppuccin_latte&langs_count=8&card_width=300">
+    </picture>
   </a>
-  <br><br>
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=MrAliBilal&theme=github-dark-dimmed&border_radius=4&card_width=600&card_height=200" alt="GitHub Streak" />
+  <a href="https://git.io/streak-stats" title="GitHub: Streak">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=MrAliBilal&theme=github-dark-dimmed&border_radius=4&card_width=600&card_height=200">
+      <img alt="GitHub: Most Used Programing Language" src="https://streak-stats.demolab.com?user=MrAliBilal&theme=catppuccin-latte-dimmed&border_radius=4&card_width=600&card_height=200">
+    </picture>
   </a>
 </p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrAliBilal&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=MrAliBilal&show_icons=true&count_private=true&theme=dark)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=MrAliBilal&theme=dark)   -->
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!--
-**MrAliBilal/MrAliBilal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrAliBilal&layout=compact&langs_count=8&theme=dark)
-
-## Hi there 👋
-
-I’m Ali Bilal from Islamabad, Pakistan, specializing in Full Stack Web Development and Graphic Design. I have a strong passion for working with cutting-edge technologies and frameworks like React and Next.js. In addition to my web development skills, I excel in graphic design, including logo branding, UI/UX design, and print media.
-
-[![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrAliBilal&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-
--->
