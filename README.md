@@ -187,6 +187,9 @@ I’m Ali Bilal from Islamabad, Pakistan, specializing in Full Stack Web Develop
   </a>
 </p>
 <p align="center">
-      <img alt="Footer" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:2b2d42,50:8d99ae,100:414345&text=Ali%20Bilal&section=footer&reversal=false&textBg=false&fontSize=20&fontAlignY=85&fontAlign=50&animation=twinkling&fontColor=C3D1D9&strokeWidth=0">
+      <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:2b2d42,50:8d99ae,100:414345&text=Ali%20Bilal&section=footer&reversal=false&textBg=false&fontSize=20&fontAlignY=85&fontAlign=50&animation=twinkling&fontColor=C3D1D9&strokeWidth=0"">
+      <img alt="GitHub: Streak" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=color=0:90deg,50:0056FF,100:00A3FF&text=Ali%20Bilal&section=footer&fontColor=ffffff&fontSize=20&fontAlign=50&fontAlignY=85&animation=twinkling">
+    </picture>
 </p>
 
