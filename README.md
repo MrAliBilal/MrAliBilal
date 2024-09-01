@@ -132,7 +132,7 @@ I’m Ali Bilal from Islamabad, Pakistan, specializing in Full Stack Web Develop
 &nbsp;&nbsp;
 ![IDE (Java): IntelliJ](./img/tools/intellij-original.svg "IDE ( Java): IntelliJ")
 &nbsp;&nbsp;
-![IDE (C, C++): CodeLite ](./img/tools/codelite-logo.svg "IDE (C, C++): CodeLite ")
+![IDE (C, C++): CodeLite ](./img/tools/Codelite26px.png "IDE (C, C++): CodeLite ")
 &nbsp;&nbsp;
 ![Text Editor: NotePad ++](./img/tools/notepadplusplusnew_ligth.svg "Text Editor: NotePad ++")
 &nbsp;&nbsp;
