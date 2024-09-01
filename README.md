@@ -10,13 +10,13 @@ I’m Ali Bilal from Islamabad, Pakistan, specializing in Full Stack Web Develop
 
 ## Connect with me:
 
-<a href="http://www.AliBilal.com/" title="AliBilal.com">
+<!-- <a href="http://www.AliBilal.com/" title="AliBilal.com">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./img/connect-with-me-section/globe-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="./img/connect-with-me-section/globe-light.svg">
     <img alt="Website:AliBilal.com" src="./img/connect-with-me-section/globe-default.svg">
   </picture>
-</a>&nbsp;&nbsp;
+</a>&nbsp;&nbsp; -->
 <a href="mailto:MrAliBilal@Outlook.com" title="Email: MrAliBilal@Outlook.com">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./img/connect-with-me-section/email-dark.svg">
@@ -31,7 +31,7 @@ I’m Ali Bilal from Islamabad, Pakistan, specializing in Full Stack Web Develop
     <img alt="" src="./img/connect-with-me-section/linkedin-default.svg">
   </picture>
 </a>&nbsp;&nbsp;
-<a href="http://discordapp.com/users/MrAliBilal" title="Discord: MrAliBilal">
+<!-- <a href="http://discordapp.com/users/MrAliBilal" title="Discord: MrAliBilal">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./img/connect-with-me-section/discord-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="./img/connect-with-me-section/discord-light.svg">
@@ -58,7 +58,7 @@ I’m Ali Bilal from Islamabad, Pakistan, specializing in Full Stack Web Develop
     <source media="(prefers-color-scheme: light)" srcset="./img/connect-with-me-section/youtube-light.svg">
     <img alt="Youtube: @MrAliBilal" src="./img/connect-with-me-section/youtube-default.svg">
   </picture>
-</a>
+</a> -->
 
 ## Tech Stack & Tools
 
@@ -83,7 +83,7 @@ I’m Ali Bilal from Islamabad, Pakistan, specializing in Full Stack Web Develop
 &nbsp;&nbsp;
 ![Language: PHP](./img/tools/php-original.svg "Language: PHP")
 &nbsp;&nbsp;
-![Language: SQL](./img/tools/sql-original.svg "Language: SQL")
+![Language: SQL](./img/tools/sql-text.svg "Language: SQL")
 
 ### Framework:
 ![JavaScript library: React](./img/tools/react-original.svg "JavaScript library: React")
@@ -134,20 +134,20 @@ I’m Ali Bilal from Islamabad, Pakistan, specializing in Full Stack Web Develop
 &nbsp;&nbsp;
 ![IDE (C, C++): CodeLite ](./img/tools/codelite-logo.svg "IDE (C, C++): CodeLite ")
 &nbsp;&nbsp;
-![Text Editor: NotePad ++](./img/tools/Notepad++_Logo.svg "Text Editor: NotePad ++")
+![Text Editor: NotePad ++](./img/tools/notepadplusplusnew_ligth.svg "Text Editor: NotePad ++")
 &nbsp;&nbsp;
-<!-- ![IDE (C, C++): Dev-C++](./img/tools "IDE (C, C++): Dev-C++")
+![IDE (C, C++): Dev-C++](./img/tools/Devplusplus.svg "IDE (C, C++): Dev-C++")
 &nbsp;&nbsp;
-![IDE (C, C++): Turbo c++](./img/tools "IDE (C, C++): Turbo c++")
+![Command-Line Interface for Git: Git Bash](./img/tools/git-bash.svg "Command-Line Interface for Git: Git Bash")
 &nbsp;&nbsp;
-![Command-Line Interface for Git: Git Bash](./img/tools "Command-Line Interface for Git: Git Bash")
-&nbsp;&nbsp;
-![Command-Line Tools: Windows Terminal](./img/tools "Command-Line Tools: Windows Terminal") -->
+![Command-Line Tools: Windows Terminal](./img/tools/terminal-dark.svg#gh-dark-mode-only "Command-Line Tools: Windows Terminal")
+![Command-Line Tools: Windows Terminal](./img/tools/terminal-light.svg#gh-light-mode-only "Command-Line Tools: Windows Terminal")
 
 ### Version Control:
 ![Version Control System VCS: Git](./img/tools/git-original.svg "Version Control System VCS: Git")
 &nbsp;&nbsp;
-![Web-Based Hosting Service: GitHub](./img/tools/github-original.svg "Web-Based Hosting Service: GitHub")
+![Web-Based Hosting Service: GitHub](./img/tools/github-original.svg#gh-light-mode-only "Web-Based Hosting Service: GitHub")
+![Web-Based Hosting Service: GitHub](./img/tools/github-original-dark.svg#gh-dark-mode-only "Web-Based Hosting Service: GitHub")
 
 ### Graphics Designing Tool:
 ![Vector Graphics Editor: Adobe Illustrator](./img/tools/Adobe_Illustrator_CC_icon.svg "Vector Graphics Editor: Adobe Illustrator")
@@ -162,7 +162,7 @@ I’m Ali Bilal from Islamabad, Pakistan, specializing in Full Stack Web Develop
 &nbsp;&nbsp;
 ![Design and Prototyping Tool: Figma](./img/tools/figma-original.svg "Framework: ")
 &nbsp;&nbsp;
-<!-- ![Low-Fidelity UI wireframing tool: Balsamiq](./img/tools "Low-Fidelity UI wireframing tool: Balsamiq") -->
+![Low-Fidelity UI wireframing tool: Balsamiq](./img/tools/Balsamiq.svg "Low-Fidelity UI wireframing tool: Balsamiq")
 
 ## My Stats:
 
