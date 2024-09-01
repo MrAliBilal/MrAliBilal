@@ -1,9 +1,4 @@
-# 🌟 Ali Bilal
-**`Full Stack Web Developer | Graphic Designer`** <br>
-**`Bachelor of Science in Computer Science (BSCS)`** <br>
-**`Islamabad, Pakistan`**
-
-![Full Stack Web Development & Graphic Designer](./img/cover-img.png)
+![Full Stack Web Development & Graphic Designer](./img/hero_section.svg)
 
 ## About Me
 I’m Ali Bilal from Islamabad, Pakistan, specializing in Full Stack Web Development and Graphic Design. I have a strong passion for working with cutting-edge technologies and frameworks like React and Next.js. In addition to my web development skills, I excel in graphic design, including logo branding, UI/UX design, and print media.
@@ -112,6 +107,8 @@ I’m Ali Bilal from Islamabad, Pakistan, specializing in Full Stack Web Develop
 ![Content Management System CMS: Strapi](./img/tools/strapi.svg "Content Management System CMS: Strapi")
 &nbsp;&nbsp;
 ![Dependency Management Tool: Composer](./img/tools/composer-original.svg "Dependency Management Tool: Composer")
+&nbsp;&nbsp;
+![Web Server: Apache](./img/tools/apache-original.svg "Web Server: Apache")
 &nbsp;&nbsp;
 ![Cross-Platform Web Server Solution Stack: XAMPP](./img/tools/xampp.svg "Cross-Platform Web Server Solution Stack: XAMPP")
 &nbsp;&nbsp;
