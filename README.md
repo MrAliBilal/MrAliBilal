@@ -162,8 +162,18 @@ I’m Ali Bilal from Islamabad, Pakistan, specializing in Full Stack Web Develop
 ![Low-Fidelity UI wireframing tool: Balsamiq](./img/tools/Balsamiq.svg "Low-Fidelity UI wireframing tool: Balsamiq")
 
 ## My Stats:
-
 <p align="center">
+  <a href="https://github.com/MrAliBilal?tab=repositories" title="GitHub: Stats">
+      <img alt="GitHub: Stats" height=200 src="https://awesome-github-stats.azurewebsites.net/user-stats/MrAliBilal?cardType=github&theme=vue-dark&preferLogin=false&Background=121827&Text=DDDDDD&Title=E2C48B&Ring=E2C48B&Border=E2C48B&icon=E2C48B">
+  </a>
+  <a href="https://github.com/MrAliBilal?tab=repositories" title="GitHub: Most Used Programing Language">
+      <img alt="GitHub: Most Used Programing Language" height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=MrAliBilal&layout=compact&theme=catppuccin_latte&langs_count=8&card_width=300&title_color=E2C48B&bg_color=121827&border_color=E2C48B&text_color=ffffff">
+  </a>
+  <a href="https://git.io/streak-stats" title="GitHub: Streak">
+      <img src="https://streak-stats.demolab.com?user=MrAliBilal&theme=github-dark-dimmed&border_radius=4&card_width=600&card_height=200&background=121827&dates=888C93&border=E2C48B&stroke=E2C48B&ring=E2C48B&fire=E2C48B&currStreakLabel=E2C48B&sideLabels=E2C48B&currStreakNum=EBEBEB&sideNums=EBEBEB" alt="GitHub Streak" />
+  </a>
+</p>
+<!-- <p align="center">
   <a href="https://github.com/MrAliBilal?tab=repositories" title="GitHub: Stats">
     <picture>
       <source media="(prefers-color-scheme: dark)" height=200 srcset="https://github-readme-stats.vercel.app/api?username=MrAliBilal&show_icons=true&count_private=true&theme=github_dark&card_width=400&rank_icon=github&bg_color=24292F&border_color=373E47">
@@ -182,7 +192,7 @@ I’m Ali Bilal from Islamabad, Pakistan, specializing in Full Stack Web Develop
       <img alt="GitHub: Streak" src="https://streak-stats.demolab.com?user=MrAliBilal&theme=catppuccin-latte&border_radius=4&card_width=600&card_height=200">
     </picture>
   </a>
-</p>
+</p> -->
 <!-- <p align="center">
       <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:2b2d42,50:8d99ae,100:414345&text=Ali%20Bilal&section=footer&fontColor=ffffff&fontSize=20&fontAlign=50&fontAlignY=85&animation=twinkling">
