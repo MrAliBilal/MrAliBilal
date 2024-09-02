@@ -171,8 +171,13 @@ I’m Ali Bilal from Islamabad, Pakistan, specializing in Full Stack Web Develop
   </a>
   <a href="https://git.io/streak-stats" title="GitHub: Streak">
       <img src="https://streak-stats.demolab.com?user=MrAliBilal&theme=github-dark-dimmed&border_radius=4&card_width=600&card_height=200&background=121827&dates=888C93&border=E2C48B&stroke=E2C48B&ring=E2C48B&fire=E2C48B&currStreakLabel=E2C48B&sideLabels=E2C48B&currStreakNum=EBEBEB&sideNums=EBEBEB" alt="GitHub Streak" />
+  </a> <br>
+  <a href="https://github.com/MrAliBilal?tab=repositories" title="GitHub: Most Used Programing Language">
+      <img alt="GitHub: Most Used Programing Language" src="https://komarev.com/ghpvc/?username=MrAliBilal&color=E2C48B&label=Ali+Bilal's+Profile+views&abbreviated=true">
   </a>
 </p>
+
+
 <!-- <p align="center">
   <a href="https://github.com/MrAliBilal?tab=repositories" title="GitHub: Stats">
     <picture>
