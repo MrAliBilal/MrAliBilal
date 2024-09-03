@@ -169,7 +169,7 @@ I’m Ali Bilal from Islamabad, Pakistan, specializing in Full Stack Web Develop
   <a href="https://github.com/MrAliBilal?tab=repositories" title="GitHub: Most Used Programing Language">
       <img alt="GitHub: Most Used Programing Language" height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=MrAliBilal&layout=compact&theme=catppuccin_latte&langs_count=8&card_width=300&title_color=E2C48B&bg_color=121827&border_color=E2C48B&text_color=ffffff">
   </a>
-  <a href="https://git.io/streak-stats" title="GitHub: Streak">
+  <a href="https://github.com/MrAliBilal?tab=repositories" title="GitHub: Streak">
       <img src="https://streak-stats.demolab.com?user=MrAliBilal&theme=github-dark-dimmed&border_radius=4&card_width=600&card_height=200&background=121827&dates=888C93&border=E2C48B&stroke=E2C48B&ring=E2C48B&fire=E2C48B&currStreakLabel=E2C48B&sideLabels=E2C48B&currStreakNum=EBEBEB&sideNums=EBEBEB" alt="GitHub Streak" />
   </a> <br>
   <a href="https://github.com/MrAliBilal?tab=repositories" title="GitHub: Most Used Programing Language">
